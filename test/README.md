@@ -7,3 +7,9 @@ SSH接続設定 | 逆引きGit | サルでもわかるGit入門 〜バージョ�
  
 男子に聞いた！　ダテメガネをかけている女子ってアリ？　ナシ？ - Peachy - ライブドアニュース
  URL:http://news.livedoor.com/article/detail/8715811/
+
+Markdown
+ URL:http://kojika17.com/2013/01/starting-markdown.html
+ 
+ 
+ 
