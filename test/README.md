@@ -1,5 +1,5 @@
 test
-#Windows7にTortoiseGitをインストールしてGitHubにPushするまでh1
+**Windows7にTortoiseGitをインストールしてGitHubにPushするまで**
  URL:http://utility.sakura.ne.jp/mw/technical_content_pages/git0001.html
  
 SSH接続設定 | 逆引きGit | サルでもわかるGit入門 〜バージョン管理を使いこなそう〜 | どこでもプロジェクト管理バックログ
